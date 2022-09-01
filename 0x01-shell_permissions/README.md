@@ -1,3 +1,4 @@
- script that sets the mode of the file hello to this:
+script that sets the mode of the file hello the same as olleh’s mode.
+
 The file hello will be in the working directory
-You are not allowed to use commas for this script
+The file olleh will be in the working directory
